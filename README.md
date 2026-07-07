@@ -75,7 +75,7 @@ class Jose:
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [**PernosVivi**](https://github.com/tokisami/PernosVivi) | PYME inventory system with barcode scanner integration | C# · MySQL |
-| **Biblioteca Virtual** | Fullstack virtual library app with REST API | React · MongoDB |
+| **Biblioteca Virtual** | Fullstack virtual library app with REST API | React · SQLite |
 | **Buscaminas** | Classic minesweeper built from scratch | Python |
  
 > 🔧 *Pushing more projects soon, I lost a lot of files so I have to rebuild everything ;-; — stay tuned*
