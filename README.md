@@ -24,7 +24,7 @@
  
 ```python
 class Jose:
-    location  = "Santiago, Chile 🇨🇱"
+    location  = "Melipilla, Chile 🇨🇱"
     studying  = "Computer & Information Engineering (UNAB, 2020–2026)"
     focus     = ["Cybersecurity", "Backend Development", "Data Analysis"]
     currently = "Google Scholar 2026 — Cybersecurity & Python Automation"
@@ -73,10 +73,9 @@ class Jose:
 |--------|-------------|-------|
 | [**PernosVivi**](https://github.com/tokisami/PernosVivi) | PYME inventory system with barcode scanner integration | C# · MySQL |
 | **Biblioteca Virtual** | Fullstack virtual library app with REST API | React · MongoDB |
-| **Sistema de Inventario** | CRUD inventory system with desktop UI | C# · MySQL |
 | **Buscaminas** | Classic minesweeper built from scratch | Python |
  
-> 🔧 *Pushing more projects soon — stay tuned*
+> 🔧 *Pushing more projects soon, I lost a lot of files so I have to rebuild everything ;-; — stay tuned*
  
 ---
  
