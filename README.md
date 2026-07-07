@@ -1,11 +1,5 @@
 <div align="center">
-```
-_   _     _   _           _    _         _ 
- | |_| |__ (_) | |__   __ _| | _(_)_ __  | |
- | __| '_ \| | | '_ \ / _` | |/ / | '_ \ | |
- | |_| | | | | | | | | (_| |   <| | | | ||_|
-  \__|_| |_|_| |_| |_|\__,_|_|\_\_|_| |_|(_)
-```
+ <img src="assets/tokisami_doom.png" alt="tokisami" />
  
 ### José Jacial Rojas
 **Computer & Information Engineering @ UNAB**
