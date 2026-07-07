@@ -1,4 +1,4 @@
-<div align="center">
+
 '''
 ████████╗ ██████╗ ██╗  ██╗██╗███████╗ █████╗ ███╗   ███╗██╗
 ╚══██╔══╝██╔═══██╗██║ ██╔╝██║██╔════╝██╔══██╗████╗ ████║██║
@@ -9,7 +9,7 @@
 
  
 '''
- 
+<div align="center"> 
 ### José Jacial Rojas
 **Computer & Information Engineering @ UNAB**
  
